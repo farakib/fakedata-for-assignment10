@@ -7,36 +7,36 @@
     }
 ,
     {
-        "id":1,
-        "img":"https://images.unsplash.com/photo-1549995546-87cb41aa98a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-        "title":"GROUP TRAINING",
-        "description":"You’ll look at graphs and charts in Task One, how to approach the task and the language needed for a successful answer."
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1549995546-87cb41aa98a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+        "title": "GROUP TRAINING",
+        "description": "You’ll look at graphs and charts in Task One, how to approach the task and the language needed for a successful answer."
     }
 ,
     {
-        "id":1,
-        "img":"https://media.istockphoto.com/photos/senior-fitness-man-doing-biceps-curl-exercises-inside-gym-fit-mature-picture-id1256909992?s=612x612",
-        "title":"BODY BUILDING",
-        "description":"You’ll look at graphs and charts in Task One, how to approach the task"
+        "id": 3,
+        "img": "https://media.istockphoto.com/photos/senior-fitness-man-doing-biceps-curl-exercises-inside-gym-fit-mature-picture-id1256909992?s=612x612",
+        "title": "BODY BUILDING",
+        "description": "You’ll look at graphs and charts in Task One, how to approach the task"
     }
 ,
     {
-        "id":1,
-        "img":"https://media.istockphoto.com/photos/bodybuilders-abdominal-muscles-picture-id1037167440?s=612x612",
-        "title":"MUSCLE GAIN",
-        "description":"You’ll look at graphs and charts in Task One, how to approach the task"
+        "id": 4,
+        "img": "https://media.istockphoto.com/photos/bodybuilders-abdominal-muscles-picture-id1037167440?s=612x612",
+        "title": "MUSCLE GAIN",
+        "description": "You’ll look at graphs and charts in Task One, how to approach the task"
     }
 ,
     {
-        "id":1,
-        "img":"https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=998&q=80",
-        "title":"WEIGHT LOSS",
-        "description":"You’ll look at graphs and charts in Task One, how to approach the task"
+        "id": 5,
+        "img": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=998&q=80",
+        "title" :"WEIGHT LOSS",
+        "description": "You’ll look at graphs and charts in Task One, how to approach the task"
     }
 ,
     {
-        "id":1,
-        "img":"https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
-        "title":"SIX PACKS",
-        "description":"You’ll look at graphs and charts in Task One, how to approach the task and the language needed for a successful answer"
+        "id": 6,
+        "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "title": "SIX PACKS",
+        "description": "You’ll look at graphs and charts in Task One, how to approach the task and the language needed for a successful answer"
     }
